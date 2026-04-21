@@ -17,9 +17,9 @@ The objective of this project was to analyze the impact of Wavecon Telecom's 5G 
 - Market Share: Analysis of Wavecon’s market share against competitors (PIO, Dadafone, Britel), with a specific focus on how Wavecon's position has evolved post-launch.
 
 ## Timeline
-Before 5G Launch: January 2022 – April 2022
-5G Launch: May 2022
-After 5G Launch: June 2022 – August 2022
+- Before 5G Launch: January 2022 – April 2022
+- 5G Launch: May 2022
+- After 5G Launch: June 2022 – August 2022
 
 ## Business Questions
 1. What was the impact of the 5G launch on Wavecon’s revenue?
@@ -32,16 +32,22 @@ After 5G Launch: June 2022 – August 2022
 ## Power BI Live Dashboard
 
 ## Key Insights
-1. Revenue Stability: Revenue remained relatively stable with a slight 0.5% decline post-launch.
-2. Active User Decline: Active users decreased by 8.28%, indicating challenges in user retention and engagement after the 5G launch.
-3. Plan Performance: High-data and long-validity plans performed well post-launch, while low-data and short-term plans saw significant declines.
-4. Market Share: Wavecon maintained a stable position in the market, but PIO continues to dominate with consistent growth post-5G.
+1. Revenue Stability: Revenue remained stable with a slight 0.5% decline, indicating minimal immediate growth from 5G.
+2. Active User Decline: Active users dropped 8.28%, signaling reduced engagement and the need for better retention strategies.
+3. High-Data Plans: High-data and long-validity plans performed well, reflecting increased demand for larger data.
+4. Low-Data Plans Struggling: Low-data and short-term plans underperformed, showing a shift towards data-heavy offerings in the 5G era.
+5. City-Level Variation: Cities like Pune and Lucknow saw growth, while Delhi and Chennai declined, highlighting uneven 5G adoption.
+6. Market Share Stability: Wavecon’s market share stayed around 18-20%, lagging behind PIO, which saw significant post-5G growth.
+7. Customer Churn: Despite ARPU increase, customer churn remains a critical issue, pointing to the need for better engagement.
 
 ## Recommendations
-1. Continue High-Data Plans: Focus on expanding high-data and long-validity plans to align with 5G demand.
-2. Improve Customer Engagement: Invest in strategies to retain customers and reduce churn, especially by enhancing the 5G user experience.
-3. Revise Low-Data Plans: Discontinue or enhance low-data and short-term plans to make them more attractive for 5G users.
-4. Strengthen 5G Features: Wavecon should further develop its 5G offerings to stay competitive against market leaders like PIO.
+1. Focus on High-Data Plans: Continue and upgrade high-data, long-validity plans to meet 5G demand.
+2. Enhance Customer Engagement: Invest in retention strategies like loyalty programs to reduce churn.
+3. Revise Low-Data Plans: Discontinue or redesign low-data plans to align with 5G trends.
+4. Targeted City Strategies: Focus marketing efforts on cities with low 5G adoption, like Delhi and Chennai.
+5. Enhance 5G Offerings: Strengthen 5G plans with competitive features like faster speeds.
+6. Improve Customer Education: Educate users on 5G benefits to drive adoption of 5G-enabled plans.
+7. Market Share Expansion: Focus on increasing 5G adoption and differentiating from competitors, especially PIO.
 
 ## Resources
 Presentation Video: [Link to video if available]
