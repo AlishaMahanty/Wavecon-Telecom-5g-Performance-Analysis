@@ -30,6 +30,7 @@ The objective of this project was to analyze the impact of Wavecon Telecom's 5G 
 6. How has Wavecon’s market share changed compared to competitors after the 5G launch?
 
 ## Power BI Live Dashboard
+[](https://app.powerbi.com/view?r=eyJrIjoiYjA3NmFiN2YtY2JkMy00YTBlLWFmZTAtNTk4OTc5ZWYxOGY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Insights
 1. Revenue Stability: Revenue remained stable with a slight 0.5% decline, indicating minimal immediate growth from 5G.
