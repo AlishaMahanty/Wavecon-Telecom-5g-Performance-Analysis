@@ -3,18 +3,11 @@
 ## Project Objective
 The objective of this project was to analyze the impact of Wavecon Telecom's 5G launch on its business performance. The key focus was to evaluate the effect on revenue, user behavior, market share, and performance of various plans post-launch. The analysis aimed to answer key business questions that will help Wavecon optimize its strategies and future offerings.
 
-## Problem to Solve:
-- Assess the revenue impact after the 5G launch.
-- Identify underperforming Key Performance Indicators (KPIs).
-- Understand how different plans performed post-launch.
-- Identify which plans were discontinued and why.
-- Evaluate the market share changes compared to competitors.
-
 ## Key Analysis Areas
-- Revenue Impact: Analysis of the overall revenue stability, with a focus on the changes pre and post-5G launch.
-- KPI Performance: Review of key metrics, especially Total Active Users, to assess the engagement and customer retention post-launch.
-- Plan Performance: Detailed analysis of different plans, highlighting high-performance plans and identifying the impact of the 5G launch.
-- Market Share: Analysis of Wavecon’s market share against competitors (PIO, Dadafone, Britel), with a specific focus on how Wavecon's position has evolved post-launch.
+Revenue Impact: Analyzed how the 5G launch affected Wavecon’s revenue, focusing on growth and stability.
+KPI Performance: Evaluated key metrics like Total Active Users (TAU) and customer churn, identifying areas for improvement.
+Plan Performance: Assessed the performance of high-data vs low-data plans post-5G launch.
+Market Share: Compared Wavecon's market share with competitors, focusing on the shift post-5G.
 
 ## Timeline
 - Before 5G Launch: January 2022 – April 2022
