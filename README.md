@@ -45,7 +45,7 @@ A detailed Power BI live dashboard was created to visualize the performance metr
 7. Market Share Expansion: Focus on increasing 5G adoption and differentiating from competitors, especially PIO.
 
 ## Resources
-- Presentation Video: [Link↗](https://github.com/AlishaMahanty/Wavecon-Telecom-5g-Performance-Analysis/blob/main/Wavecon%20Insights%20Presentation.mp4)
+- Presentation Video: [Link↗](https://www.linkedin.com/feed/update/urn:li:activity:7452922954801233920/)
 - Power BI File: [Link↗](https://github.com/AlishaMahanty/Wavecon-Telecom-5g-Performance-Analysis/blob/main/Wavecon%20Telecom%20Analysis.pbix)
 - Presentation PDF: [Link↗](https://github.com/AlishaMahanty/Wavecon-Telecom-5g-Performance-Analysis/blob/main/Wavecon%20Analysis.pdf)
 - PPT File: [Link↗](https://github.com/AlishaMahanty/Wavecon-Telecom-5g-Performance-Analysis/blob/main/Wavecon%20Analysis.pptx)
